@@ -9,5 +9,7 @@ func main() {
 	fmt.Println("try push")
 	if a < 1 {
 		fmt.Println("bob")
+	} else {
+		fmt.Println("bobo")
 	}
 }
