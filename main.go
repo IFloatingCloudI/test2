@@ -7,16 +7,8 @@ func aboba() string {
 }
 
 func main() {
-	a := 0
-	fmt.Println("hi")
-	fmt.Println(2 + 3)
-	fmt.Println("try push")
-	if a < 1 {
-		fmt.Println("bob")
-	} else {
-		fmt.Println("bobo")
-	}
 	fmt.Println("test branch in git")
 	fmt.Println(aboba())
 	//ololo
+	//test2
 }
