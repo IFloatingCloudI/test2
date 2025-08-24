@@ -15,5 +15,9 @@ func main() {
 	a = 5
 	fmt.Println(a)
 	fmt.Println("adasd")
+	// branch2
+	for i := 0; i < 4; i++ {
+		fmt.Println(i)
+	}
 
 }
