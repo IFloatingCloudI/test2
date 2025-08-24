@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(aboba())
 	//ololo
 	//test2
+	//branchtest
+	fmt.Println(2 * 2 * 2)
 }
