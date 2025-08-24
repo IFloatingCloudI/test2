@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+func aboba() string {
+	return "i love nutelf"
+}
+
 func main() {
 	a := 0
 	fmt.Println("hi")
@@ -12,4 +16,7 @@ func main() {
 	} else {
 		fmt.Println("bobo")
 	}
+	fmt.Println("test branch in git")
+	fmt.Println(aboba())
+	//ololo
 }
